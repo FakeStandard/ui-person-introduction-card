@@ -1,4 +1,4 @@
-# :bowtie: Person Introduction Card Using HTML &amp; CSS
+# :information_desk_person: Person Introduction Card Using HTML &amp; CSS
 
 - Person Introduction Card Modern Design
 - Using HTML & CSS
